@@ -4,11 +4,11 @@
     border-color: rgb(var(--color));
     border-radius: 1.5rem;
     border-style: solid;
-    border-width: 1px;
+    border-width: 2px;
     color: rgb(var(--color));
     font-size: var(--venia-global-text-fontSize-100);
     font-weight: var(--venia-global-text-fontWeight-bold);
-    height: 2rem;
+    height: 2.25rem;
     line-height: var(--venia-global-text-lineHeight-300);
     max-width: 100%;
     min-width: 7.5rem;
